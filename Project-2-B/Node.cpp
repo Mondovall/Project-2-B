@@ -96,7 +96,7 @@ void binaryTree::decodeSearchString(std::string paths) {
 }
 
 //  Inserts data into leaves, creates path if does not exist
-void binaryTree::insert(char data, std::string path) { // a = ._
+void binaryTree::insert(char data, std::string path) {
 
     Node* cursor = root; //  Creates a moving pointer
 

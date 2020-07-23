@@ -1,6 +1,5 @@
 #pragma once
 #include <string>
-#include <vector>
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -24,7 +23,7 @@ struct Node {
 	~Node() {};
 };
 
-//class declaration.
+
 class binaryTree {
 public:
 	binaryTree();
