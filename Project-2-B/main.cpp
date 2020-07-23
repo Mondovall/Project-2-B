@@ -1,4 +1,4 @@
-// Project 2B | Group 2:  James Ta, Shawn Nitchman, Timothy Hoang
+// Project 2B | Group 2:  James Ta, Shawn Nitchman, Timothy Hoang.
 
 #include "Node.h"
 

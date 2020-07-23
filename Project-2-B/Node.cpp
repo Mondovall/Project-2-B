@@ -1,6 +1,6 @@
 #include "Node.h"
 
-//  Creates tree
+//  Creates tree.
 binaryTree::binaryTree(){
     root = new Node;
     buildTree();

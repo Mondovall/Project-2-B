@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <fstream>
 
-// this is the node for the binary tree
+// this is the node for the binary tree.
 struct Node {
 	char letter;
 	Node* left;
